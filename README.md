@@ -1,22 +1,22 @@
 # Snake_And_Ladder_Game
 
 # ABSTRACT
-Games are fun activities that can enhance the process of
+Games are fun activities that   can enhance   the process of
 thinking, learning and problem-solving strategies. With these
 criteria, games have been said one of the best learning media
 for education that can improve the learning process. With the
-exploding of technology, computer games are quite popular
+exploding of technology    , computer games are quite popular
 among students. In the learning process, many ways have been
 introduced to attract students. One of the basic programming
-languages that should be taken by many students is a Java
-programming language. A programming language is a difficult
-subject for students to learn. They are having problems to
-understand the concept of that subject. This study purposely to
-develop a computer game for learning Java programming based
-on Snake and Ladder board game.
+languages that should  be  taken by  many students is a Java
+programming language.  A programming language is a difficult
+subject for students  to learn. They are  having problems to
+understand the concept of that subject. This study purposely
+to develop a computer game for learning   Java programming
+based on Snake and Ladder board game.
 
 # INTRODUCTION
-Snake and ladder game have been chosen as a learning media
+Snake and ladder game have   been chosen as a  learning media
 in this study. This game played on board with gridded squares.
 Several ladders and snakes exist on the board, which connect to
 specific grids. The players will navigate the board according to
