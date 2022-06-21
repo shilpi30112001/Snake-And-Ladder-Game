@@ -1,4 +1,4 @@
-# Snake_And_Ladder_Game
+# Snake-And-Ladder-Game
 
 # ABSTRACT
 Games are fun activities that   can enhance   the process of
